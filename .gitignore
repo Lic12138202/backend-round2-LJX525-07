@@ -1,0 +1,11 @@
+target/
+*.iml
+.idea/
+.vscode/
+*.log
+run.err
+run2.err
+.DS_Store
+Thumbs.db
+application-prod.yml
+.env
